@@ -8,6 +8,8 @@
  > <a href="https://potigol.github.io/docs/hacktoberfest"><img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=250></a>
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/gitpod)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/potigol/potigol)
 [![IFRN](https://potigol.github.io/docs/logo_ifrn_40.png)](https://www.ifrn.edu.br)
 
  > Linguagem de Programação moderna para iniciantes
